@@ -1,0 +1,11 @@
+Prototipo Unity - Taller de juegos AIEP
+
+Como instalar:
+1- Crear Proyecto nuevo desde Unity Hub como proyecto URP Universal 3D
+2- Descargar archivos en botón verde "Download .Zip".
+3- Añadir todos los recursos de Assets al proyecto.
+
+Comprobar cada escena dentro de carpet Scenes para funcionalidad del prototipo.
+
+atte
+Docente Ignacio.
